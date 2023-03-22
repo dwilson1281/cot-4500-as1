@@ -1,5 +1,6 @@
 # cot-4500-as1
-by Dylon Wilson \n
+by Dylon Wilson
+
 This Assignment covers chapter 1 and 2
 
 # How to run the code from the terminal
